@@ -1,13 +1,16 @@
-Hi 👋 My name is Amir Rafe
-==========================
+# Amir Rafe
 
-🚶 Enthusiast in Pedestrian Studies & 🤖 Applied AI
----------------------------------------------------
+**Pedestrian Studies | Applied AI | Crowd Dynamics | Evacuation Modeling**
 
-My passion lies in understanding the complexity of human behavior in urban environments, particularly as it relates to crowd dynamics and emergency evacuation modeling. I am constantly exploring new methods and techniques to develop mathematical models and agent-based simulations that accurately capture these phenomena. Additionally, I have a strong interest in statistics and programming, and I am always looking for ways to leverage these skills to enhance my work in pedestrian dynamics. As cities continue to evolve and grow, I believe that a deeper understanding of human behavior and pedestrian dynamics will be crucial to creating smarter, safer, and more efficient urban environments.
+I am a transportation engineer and researcher specializing in pedestrian dynamics, human behavior modeling, and AI applications in urban environments. My work focuses on developing mathematical models, agent-based simulations, and AI-driven frameworks to better understand and improve crowd movement, safety, and emergency evacuation processes.
 
-* 🌍  I'm based in Logan, UT
-* ✉️  You can contact me at [amir.rafe@usu.edu](mailto:amir.rafe@usu.edu)
+I am passionate about advancing research at the intersection of complexity science, transportation systems, and artificial intelligence. My goal is to contribute to the design of smarter, safer, and more resilient urban environments.
+
+> _Advancing pedestrian safety and crowd resilience through data-driven research and AI-powered modeling._
+
+- 📍 Based in Logan, Utah  
+- 📧 Contact: [amir.rafe@usu.edu](mailto:amir.rafe@usu.edu)   
+- 📂 Projects and Publications: See pinned repositories below
 
 ### Skills
 
