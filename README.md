@@ -1,4 +1,4 @@
-## About me
+## Who I Am
 
 **Human Behavior | ML & Applied AI | Causality in Engineering | Evacuation**
 
