@@ -1,6 +1,6 @@
-# Amir Rafe
+## About me
 
-**Pedestrian Studies | Applied AI | Crowd Dynamics | Evacuation Modeling**
+**Human Behavior | ML & Applied AI | Causality in Engineering | Evacuation**
 
 I am a transportation engineer and researcher specializing in pedestrian dynamics, human behavior modeling, and AI applications in urban environments. My work focuses on developing mathematical models, agent-based simulations, and AI-driven frameworks to better understand and improve crowd movement, safety, and emergency evacuation processes.
 
