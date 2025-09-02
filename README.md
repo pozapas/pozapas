@@ -8,8 +8,8 @@ I am passionate about advancing research at the intersection of complexity scien
 
 > _Advancing pedestrian safety and crowd resilience through data-driven research and AI-powered modeling._
 
-- 📍 Based in Logan, Utah  
-- 📧 Contact: [amir.rafe@usu.edu](mailto:amir.rafe@usu.edu)   
+- 📍 Based in San Marcos, Texas  
+- 📧 Contact: [amir.rafe@txstate.edu](mailto:amir.rafe@txstate.edu)   
 - 📂 Projects and Publications: See pinned repositories below
 
 ### Skills
